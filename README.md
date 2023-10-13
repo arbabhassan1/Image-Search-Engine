@@ -14,7 +14,7 @@ No more worrying about licensing fees or restrictive usage rights. We're committ
 
 ## Demo 
 
-[🔗  Live Demo](https://image-search-engine-theta.vercel.app/)
+[🔗  Live Demo](https://image-search-engine-eosin.vercel.app/)
 
 # Screenshots
 ## Desktop & Laptop
