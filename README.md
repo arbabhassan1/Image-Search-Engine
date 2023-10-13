@@ -18,10 +18,12 @@ No more worrying about licensing fees or restrictive usage rights. We're committ
 
 # Screenshots
 ## Desktop & Laptop
-![image](https://github.com/arbabhassan1/Image-Search-Engine/assets/118005911/14fae6b5-2a48-4a30-b8c1-3f33f90b20dc)
+![image](https://github.com/arbabhassan1/Image-Search-Engine/assets/118005911/62b664af-fb14-46bc-a10c-b3a54dfa8e3d)
+
 ## Mobile
 
-![image](https://github.com/arbabhassan1/Image-Search-Engine/assets/118005911/f710cd92-45a9-406e-a5c1-818e2479f9bc)
+![image](https://github.com/arbabhassan1/Image-Search-Engine/assets/118005911/71bfe4cd-d109-4fff-a877-49893f28941d)
+
 
 
 
